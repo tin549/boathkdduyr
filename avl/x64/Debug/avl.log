@@ -1,0 +1,15 @@
+﻿  AVL_tree.cpp
+D:\laptrinh\avl\avl\AVL_tree.cpp(61,17): error C2664: 'void AVL_tree::LeftRotate(Node *&)': cannot convert argument 1 from 'Node *' to 'Node *&'
+  D:\laptrinh\avl\avl\AVL_tree.h(23,10):
+  see declaration of 'AVL_tree::LeftRotate'
+  D:\laptrinh\avl\avl\AVL_tree.cpp(61,17):
+  while trying to match the argument list '(Node *)'
+  
+D:\laptrinh\avl\avl\AVL_tree.cpp(82,17): error C2664: 'void AVL_tree::RightRotate(Node *&)': cannot convert argument 1 from 'Node *' to 'Node *&'
+  D:\laptrinh\avl\avl\AVL_tree.h(24,10):
+  see declaration of 'AVL_tree::RightRotate'
+  D:\laptrinh\avl\avl\AVL_tree.cpp(82,17):
+  while trying to match the argument list '(Node *)'
+  
+  Node.cpp
+  Generating Code...
